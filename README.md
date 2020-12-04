@@ -12,3 +12,7 @@ Arena is a mod for CS 1.6 that lets players face each other in a one on one batt
 - ReGameDLL
 - ReAPI
 ```
+
+## Profile
+
+I used to give help and share projects at AMXMODX-ES. You can see [my profile](https://amxmodx-es.com/Manu) for more information.
